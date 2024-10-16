@@ -21,4 +21,4 @@
 
 ## Домашние задания
 
-[1] [Контест на Python 1]() \
+[1] [Контест на Python 1](https://contest.yandex.ru/contest/69604/enter/?retPage=) \
