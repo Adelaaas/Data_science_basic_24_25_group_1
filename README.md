@@ -4,7 +4,7 @@
 
 ## Программа курса (лекции)
 
-[1] [Основы Python 1]() \
+[1] [Основы Python 1](https://github.com/Adelaaas/Data_science_basic_24_25_group_1/blob/main/00_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_Python_1.ipynb) \
 [2] [Основы Python 2]() \
 [3] [Основы работы с библиотекой NumPy 1]() \
 [4] [Основы работы с библиотекой NumPy 2]() \
