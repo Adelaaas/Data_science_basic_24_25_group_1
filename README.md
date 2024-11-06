@@ -6,17 +6,17 @@
 
 ## Программа курса (лекции)
 
-[1] [Основы Python 1](https://github.com/Adelaaas/Data_science_basic_24_25_group_1/blob/main/00_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_Python_1.ipynb) \
-[2] [Основы Python 2]() \
-[3] [Основы работы с библиотекой NumPy 1]() \
-[4] [Основы работы с библиотекой NumPy 2]() \
-[5] [Основы работы с библиотекой Pandas 1]() \
-[6] [Основы работы с библиотекой Pandas 2]() \
-[7] [Исследование данных (EDA) и визуализация]() \
-[8] [Введение в Машинное обучение]() \
-[9] [Введение в задачи регрессии]() \
-[10] [Введение в задачи классификации]() \
-[11] [Введение в кластерный анализ]() \
+[0] [Основы Python 1](https://github.com/Adelaaas/Data_science_basic_24_25_group_1/blob/main/00_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_Python_1.ipynb) \
+[1] [Основы Python 2](https://github.com/Adelaaas/Data_science_basic_24_25_group_1/blob/main/01_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_Python_2.ipynb) \
+[2] [Основы работы с библиотекой NumPy 1](https://github.com/Adelaaas/Data_science_basic_24_25_group_1/blob/main/02_2024_NumPy.ipynb) \
+[2] [Основы работы с библиотекой NumPy 2](https://github.com/Adelaaas/Data_science_basic_24_25_group_1/blob/main/02_2024_NumPy_%E2%84%962.ipynb) \
+[3] [Основы работы с библиотекой Pandas 1]() \
+[4] [Основы работы с библиотекой Pandas 2]() \
+[5] [Исследование данных (EDA) и визуализация]() \
+[6] [Введение в Машинное обучение]() \
+[7] [Введение в задачи регрессии]() \
+[8] [Введение в задачи классификации]() \
+[8] [Введение в кластерный анализ]() \
 
 ## Дополнительный материалы
 
