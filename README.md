@@ -24,3 +24,4 @@
 ## Домашние задания
 
 [1] [Контест на Python 1](https://contest.yandex.ru/contest/69604/enter/?retPage=) \
+[2] [Контест на NumPy](https://contest.yandex.ru/contest/70745/enter/?retPage=)\
